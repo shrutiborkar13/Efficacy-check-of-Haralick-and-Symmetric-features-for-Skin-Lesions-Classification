@@ -1,0 +1,1 @@
+# Efficacy-check-of-Haralick-and-Symmetric-features-for-Skin-Lesions-Classification
